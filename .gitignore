@@ -1,0 +1,7 @@
+*.exe
+*.obj
+a.out
+html
+latex
+*.o
+build
